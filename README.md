@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- :books: I’m currently running book shop as e-commerce at https://k9bookshelf.com
+
 <!--
 **kogai/kogai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
