@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kogai)](https://github.com/anuraghazra/github-readme-stats)
+
 - :books: I’m currently running book shop as e-commerce at https://k9bookshelf.com
 
 <!--
