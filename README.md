@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kogai)](https://github.com/anuraghazra/github-readme-stats)
 
-- :books: I’m currently running book shop as e-commerce at https://k9bookshelf.com
+- :books: I’m currently running book shop as e-commerce at [k9bookshelf.com](https://k9bookshelf.com) developed on [repo](https://github.com/kogai/k9bookshelf)
 
 <!--
 **kogai/kogai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
