@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kogai)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kogai)](https://github.com/anuraghazra/github-readme-stats)
 
 - :books: I’m currently running book shop as e-commerce at [k9bookshelf.com](https://k9bookshelf.com) developed on [repo](https://github.com/kogai/k9bookshelf)
